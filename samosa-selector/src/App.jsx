@@ -35,7 +35,7 @@ const App = () => {
         <h1> Samosa Selector</h1>
         <h2>Count: {count}</h2>
         <img className="samosa.jpg"
-          src="https://png.pngtree.com/png-vector/20210219/ourmid/pngtree-indian-samosa-vector-illustration-cdr-png-image_2923215.jpg"
+          src="https://helpful-griffin-0a0ba5.netlify.app/samosa.png"
           onClick={updateCount}></img>
         <div className='container'>
           <div className='upgrade'>
